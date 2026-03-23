@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "id": "n5_basic",
+      "name": "n5词汇",
+      "file": "N5Words",
+      "description": "JLPT N5 核心词汇，假名+汉字+释义+例句",
+      "wordCount": 950,
+      "color": "#3399E6"
+    }
+  ]
+}
