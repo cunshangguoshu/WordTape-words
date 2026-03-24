@@ -7,7 +7,7 @@
       "cover": "N5word-gaopin-cover.png",
       "description": "JLPT N5 核心词汇磁带：收录假名、汉字、多重释义及 100% 原创实战例句，全词条支持振假名标注。",
       "wordCount": 270,
-      "color": "#3399E6"
+      "color": "#57C27B"
     },
     {
       "id": "N5词汇·基础篇",
@@ -16,7 +16,16 @@
       "cover": "N5word-jichu-cover.png",
       "description": "JLPT N5 基础词汇磁带：全面覆盖数字日期、方位导航及高频生活名词。配合场景化 Shadowing 语境，助你夯实日语地基。",
       "wordCount": 268,
-      "color": "#57C27B"
+      "color": "#E09131"
+    },
+    {
+      "id": "N5词汇·拔高篇",
+      "name": "N5词汇·拔高篇",
+      "file": "N5word-bagao",
+      "cover": "N5word-bagao-cover.png",
+      "description": "JLPT N5 拔高篇词汇磁带：精准攻克‘内外有别’的亲属称谓、衣食起居细节及复杂量词读音变化。配合高阶地道 Shadowing 场景，带你跨越‘教科书式日语’，进阶真实生活实战。",
+      "wordCount": 265,
+      "color": "#C7B370"
     }
   ]
 }
