@@ -10,4 +10,17 @@
       "color": "#3399E6"
     }
   ]
+},
+{
+  "packs": [
+    {
+      "id": "N5词汇·基础篇",
+      "name": "N5词汇·基础篇",
+      "file": "N5word-jichu",
+      "cover": "N5word-jichu-cover.png",
+      "description": "JLPT N5 基础词汇磁带：全面覆盖数字日期、方位导航及高频生活名词。配合场景化 Shadowing 语境，助你夯实日语地基。",
+      "wordCount": 268,
+      "color": "#57C27B"
+    }
+  ]
 }
