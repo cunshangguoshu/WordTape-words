@@ -26,6 +26,15 @@
       "description": "JLPT N5 拔高篇词汇磁带：精准攻克‘内外有别’的亲属称谓、衣食起居细节及复杂量词读音变化。配合高阶地道 Shadowing 场景，带你跨越‘教科书式日语’，进阶真实生活实战。",
       "wordCount": 265,
       "color": "#C7B370"
+    },
+    {
+      "id": "大家的日语初级·1",
+      "name": "大家的日语初级·1",
+      "file": "dajai-chuji-1",
+      "cover": "dajai-chuji-1.png",
+      "description": "大家的日语初级·1是大家的日语初级上册单词汇总",
+      "wordCount": 265,
+      "color": "#C7B370"
     }
   ]
 }
